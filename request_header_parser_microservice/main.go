@@ -11,9 +11,12 @@ const welcomeHTML = `
 <html>
     <head></head>
     <body>
-        <h1>Welcome to the Request Header Parser Microservice frontpage</h1>
+        <h1>API Project: Request Header Parser Microservice</h1>
         <p>To use the service go to: <a href="/api/whoami">[base-url]/api/whoami</a></p>
-        <p>by: <a href="github.com/azehor">Azehor</a></p>
+        <br><br>
+        <footer>
+            <p>by: <a href="http://github.com/azehor">Azehor</a></p>
+        </footer>
     </body>
 </html>`
 

@@ -18,7 +18,10 @@ const index = `
             <input type="file" id="uploadFile" name="uploadFile"><br><br>
             <input type="submit">
         </form>
-        <p>by <a href="github.com/azehor">Azehor</a></p>
+        <br><br>
+        <footer>
+        <p>by: <a href="http://github.com/azehor">Azehor</a></p>
+        </footer>
     </body>
 </html>`
 

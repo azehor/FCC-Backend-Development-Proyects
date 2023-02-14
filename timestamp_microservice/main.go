@@ -21,8 +21,11 @@ const index = `
         <h1>API Project: Timestamp Microservice</h1>
         <h2>Example usage:</h2>
         <p><a href="/api/2020-06-16">[base-url]/api/2020-06-16</a></p>
-        <p><a href="/api/1451001600000">[base-url]/api/1451001600000</a></p><br><br>
-        <p>by <a href="github.com/azehor">Azehor</a></p>
+        <p><a href="/api/1451001600000">[base-url]/api/1451001600000</a></p>
+        <br><br>
+        <footer>
+            <p>by: <a href="http://github.com/azehor">Azehor</a></p>
+        </footer>
     </body>
 </html>`
 
