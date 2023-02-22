@@ -4,6 +4,7 @@ This repository is a compilation of my solutions to [FreeCodeCamp]'s [Backend De
 
 ## Index
 
+- [Exercise Tracker REST API](./exercise_tracker/)
 - [File Metadata Microservice](./file_metadata_microservice/)
 - [Request Header Parser Microservice](./request_header_parser_microservice/)
 - [Timestamp Microservice](./timestamp_microservice/)
